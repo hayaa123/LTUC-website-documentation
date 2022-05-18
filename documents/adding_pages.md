@@ -2,23 +2,28 @@
 
 to add page to your website 
 
+***for example add a scholarship page (as a child page) into the school page***
+
 1- you should go to pages in the sude nav 
 
 2- click on your website 
 
 3- choose add child page 
 
+![add a child page to school page](../images/adding_pages/add_child_to_school.PNG)
+
 4- select the type of page you want 
 
-   a- in the about us and addmission pages you should 
-   first: add the title and then start aadding the content you can notice that there are many block types and you can find its description [here](block_types.md) , you can see a + sympol before and after the block options ,this + sympole means that you can add block before or after the current one
-    secound : after finishing filling the content click on the arrow beside save draft and choose publish 
+![child page types](../images/adding_pages/child_page_types.PNG)
 
-   b- to add a contact page click on the contact page from add child pge then fill the fields 
+- [about us page](./pages/about_us_page.md)
+- [addmission page](./pages/addmission_page.md)
+- [contact us page](./pages/contact_us_page.md)
+- [news and events page](./pages/news_and_events_page.md)
+- [scholarship page](./pages/scholarship_page.md)
 
-         - to add address in the adress fild click on add adress button then fill your company address 
+ 
 
-         - to add your phone number go to call us panel and press on the call us buttton then fill your phone number 
 
-         - to add a google maps link  you should click on google maps button and then fill the place id 
+ 
 
