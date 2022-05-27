@@ -99,26 +99,26 @@ this component contain a big picture in the left side and a text in the left sid
 
 ## Cards 
 
-1- in the title of cards section put the title of the section 
+1- in the title of cards section put the title of the section.
 
-2- inside the card element fill the following  
+2- inside the card element fill the following:
 
-    - in the image field click on choose image and you can either upload image from your device or choose from the existing images (this will be the card image)
+    - in the image field click on choose image and you can either upload image from your device or choose from the existing images (this will be the card image).
 
-    - in the title field put the title of the card 
+    - in the title field put the title of the card itself, mainly the name of the person (if you use it as Our Staff section).
 
-    - in the text field put the description of the card 
+    - in the text field put the description of the card, mainly a small brief about that person (if you use it as Our Staff section).
 
-    - in call to action field you can either choose a page from Button page or add a link to Button URL
+    - in call to action field you can either choose a page from Button page or add a link to Button URL, mainly a link for the linkedin account or any social media accounts (if you use it as Our Staff section).
 
-    - in te button text you can add the text that you want your link to be embedded in
+    - in te button text you can add the text that you want your link to be embedded in.
  
 notes : 
 
 - to add more cards you can click in the ( + ) sympole above or below the current 
 card 
 
-- also you can order then by the ( ^ ) and or the down arrow 
+- also you can order them by the ( ^ ) and or the down arrow 
 
 
 ## Youtube Video Block 
