@@ -12,9 +12,13 @@
 
 ![form field example](../../images/adding_pages/form_field_example.PNG)
 
-and it will look like this:
+**and it will look like this:**
 
 ![website form example](../../images/adding_pages/form_example.PNG)
+
+**whole page will be as this**
+
+![contact us page example](../../images/adding_pages/contact_us_example.PNG)
 
 - **dont forget to publish it.**
 
