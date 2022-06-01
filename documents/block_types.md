@@ -135,7 +135,7 @@ this component contain a big picture in the left side and a text in the left sid
 ![card example](../images/blocks/card/card_example.png)
 
 
-## notes : 
+### notes : 
 
 - to add more cards you can click in the ( + ) sympole above or below the current 
 card.

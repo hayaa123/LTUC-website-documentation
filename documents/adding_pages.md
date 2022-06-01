@@ -16,11 +16,11 @@ to add page to your website
 
 ![child page types](../images/adding_pages/child_page_types.PNG)
 
-- [about us page](./pages/about_us_page.md)
-- [addmission page](./pages/addmission_page.md)
-- [contact us page](./pages/contact_us_page.md)
-- [news and events page](./pages/news_and_events_page.md)
-- [scholarship page](./pages/scholarship_page.md)
+- [about us page](documents/pages/about_us_page.md)
+- [addmission page](documents/pages/addmission_page.md)
+- [contact us page](documents/pages/contact_us_page.md)
+- [news and events page](documents/pages/news_and_events_page.md)
+- [scholarship page](documents/pages/scholarship_page.md)
 
  
 

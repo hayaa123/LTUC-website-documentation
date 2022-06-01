@@ -1,0 +1,13 @@
+* [Home](/)
+* [adding new subdomain website](documents/adding_new_subdomain.md)
+* [change the theme for your website](documents/change_theme.md) 
+* [adding footer to your website](documents/adding_footer.md) 
+* [adding navbar](documents/adding_navbar.md) 
+* [adding pages to your website](documents/adding_pages.md)
+  - [ about us page](documents/pages/about_us_page.md)
+  - [addmission page](documents/pages/addmission_page.md)
+  - [contact us page](documents/pages/contact_us_page.md)
+  - [news and events page](documents/pages/news_and_events_page.md)
+  - [scholarship page](documents/pages/scholarship_page.md)
+
+* [blockTypes](documents/block_types.md)
