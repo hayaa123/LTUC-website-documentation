@@ -1,4 +1,4 @@
-# adding footer information 
+# adding footer to your website 
 
 1- go to the settings from the side navbar 
 
@@ -16,10 +16,10 @@
 
 - in social media you can add the type of social media and the link 
     
-- in the google maps location you can put the name of area in the title then put the link of the location in the url
+- in the google maps location you can put the name of area in the title then put the link of the location in the URL
 
 6- save 
 
-<p style='color:#7D1E6A;'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>
+<p style='color:#7D1E6A;font-weight:bold;'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>
 
 ![footer example](../images/footer/footer_example.PNG)

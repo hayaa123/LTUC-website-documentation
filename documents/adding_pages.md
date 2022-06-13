@@ -1,10 +1,10 @@
-# adding pages
+# adding child pages to your website
 
 to add page to your website 
 
 ***for example add a scholarship page (as a child page) into the school page***
 
-1- you should go to pages in the sude nav 
+1- you should go to pages in the side nav 
 
 2- click on your website 
 
@@ -16,8 +16,10 @@ to add page to your website
 
 ![child page types](../images/adding_pages/child_page_types.PNG)
 
+<h4>child page types</h4>
+
 - [about us page](documents/pages/about_us_page.md)
-- [addmission page](documents/pages/addmission_page.md)
+- [admission page](documents/pages/addmission_page.md)
 - [contact us page](documents/pages/contact_us_page.md)
 - [news and events page](documents/pages/news_and_events_page.md)
 - [scholarship page](documents/pages/scholarship_page.md)
