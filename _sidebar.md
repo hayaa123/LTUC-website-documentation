@@ -11,3 +11,5 @@
   - [scholarship page](documents/pages/scholarship_page.md)
 
 * [blockTypes](documents/block_types.md)
+
+* [user_managment](documents/user_managment.md)
