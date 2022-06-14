@@ -13,3 +13,9 @@
 * [blockTypes](documents/block_types.md)
 
 * [user_managment](documents/user_managment.md)
+
+* [collections](documents/collections.md)
+
+* [images](documents/images.md)
+
+* [documents](documents/documents.md)
