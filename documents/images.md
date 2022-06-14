@@ -22,7 +22,7 @@ to access Images in the website :
 
     notes : 
 
-        - this page will not redirect you to the main images page you should click on images in the side na again to navigate 
+        - this page will not redirect you to the main images page you should click on images side navigation menu again to navigate 
 
         - you can add more than one image by repeating the steps above 
 
@@ -30,7 +30,7 @@ to access Images in the website :
 
 5- you can search on image by its name by typing its name in the top search bar
 
-6- you can select images by clicking on the white bxox in top left of the image 
+6- you can select images by clicking on the white box on the top left corner of the image 
 
     when selecting the image a new option will pop up to you 
 
