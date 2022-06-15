@@ -10,6 +10,7 @@
   - [news and events page](documents/pages/news_and_events_page.md)
   - [scholarship page](documents/pages/scholarship_page.md)
 
+
 * [block types](documents/block_types.md)
   - [Banner block](#banner-block)
   - [Slider block](#slider)
@@ -24,3 +25,14 @@
   - [Addmission](#addmission)
 
 * [localization](documents/localization.md)
+
+* [user_managment](documents/user_managment.md)
+
+* [collections](documents/collections.md)
+
+* [images](documents/images.md)
+
+* [documents](documents/documents.md)
+
+* [reports](documents/reports.md)
+
