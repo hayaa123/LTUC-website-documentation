@@ -1,4 +1,4 @@
-## adding new subdomain website 
+# adding new subdomain website 
 
 ***first you have to make a school page in the root***
 
@@ -14,7 +14,7 @@
 
 4- select the school home page option 
 
-5- fill the nessesary information 
+5- fill the necessary information 
 
 6- click on the arrow near save draft below and select publish to complete your page 
 
@@ -25,6 +25,7 @@
 7- go to the settings in the side navbar 
 
 ![sites option inside settings](../images/microsites/settings_sites.png)
+
 8- select sites 
 
 9- click on add a site 
@@ -41,5 +42,5 @@
 
 ![microsite example](../images/microsites/add_site_example.PNG)
 
-<p style='color:#7D1E6A;'>you can now go to subdomain_name.website_name domain:port_number and find your website up and running. <span style='color:#EC994B'>(for example: http://school1.localhost:8000) :D</span> </p>
+<p style='color:#7D1E6A;font-weight:bold'>you can now go to subdomain_name.website_name domain:port_number and find your website up and running. <span style='color:#EC994B'>(for example: http://school1.localhost:8000) :D</span> </p>
 

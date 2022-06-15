@@ -2,6 +2,7 @@
 
 Ltuc website is a content managment system for lumminus technical University collage and this is its offical website 
 
+
 this documentation will guid dealing with this website ,so your experiance will be easy and simple 
 
 here you will see how to create pages and manage them 

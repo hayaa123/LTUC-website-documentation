@@ -1,6 +1,6 @@
-# adding navbar information
+# adding navbar
 
-1- go to the seeting in the side navbar
+1- go to the setting in the side navbar
 
 2- go to menu
 
@@ -10,12 +10,12 @@
 
 ![site domain drop down list](../images/navbar/sitedomain_menu.PNG)
 
-4- fron that drop down list choose the website that you want to add information to 
+4- from that drop down list choose the website that you want to add information to 
 
 5- fill the required field
 
 - choose a logo
-- you can see that the fields reqiures you to choose a page (to show it in the navbar) so 
+- you can see that the fields requires you to choose a page (to show it in the navbar) so 
 
     - click on choose page button.
 
@@ -25,13 +25,13 @@
     - choose the page you want to attach (here for example contact page) 
     ![choose a child page](../images/navbar/choose_a_page2.PNG)
     
-- at the end of the page you can find a (+) sympol this is to add a subpages from the parent page, to make a drop down list in the navbar. (for example: Admission page has subpages inside it as a child pages). 
+- at the end of the page you can find a (+) symbol this is to add a subpages from the parent page, to make a drop down list in the navbar. (for example: Admission page has subpages inside it as a child pages). 
 
     - choose the field that you want to make a drop down list from eg:schools
 
-    - add the infromation that you like 
+    - add the information that you like 
 
-    - if you want to add another drop down item for the sam field eg: adding 3 or 4 schools to school , you can press on the + sympol again and choose school again...etc
+    - if you want to add another drop down item for the same field eg: adding 3 or 4 schools to school , you can press on the + symbol again and choose school again...etc.
 
 ![dropdown list example](../images/navbar/navbar_content_example.PNG)
 
@@ -42,8 +42,8 @@
 
 ![navbar example](../images/navbar/navbar_example.PNG)
 
-*and to make the drop-down list you will add it by (+) sign inside contet section*
+*and to make the drop-down list you will add it by (+) sign inside content section*
 
 ![navbar dropdown list](../images/navbar/navbar_example2.PNG)
 
-<p style='color:#7D1E6A;'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>
+<p style='color:#7D1E6A;font-weight:bold'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>
