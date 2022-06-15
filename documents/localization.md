@@ -17,14 +17,16 @@ So, you can add one or more language to translate you website to be seen by diff
 7. now it will create an alias page with your chosen translation language from the page you translated.
 8. finally, you have to go for all pages that translated and change its content to the chosen language (for example: from English to Arabic content).
 
-**the link will be something like this: localhost:8000/en for English site OR localhost:8000/ar for Arabic site**
+**the link will be something like this:**
+- localhost:8000/en for English site 
+- localhost:8000/ar for Arabic site
 
 ## steps to translate a navbar:
-- go to settings --> Menu [docs](documents/adding_navbar.md)
+- go to settings --> Menu [(docs)](documents/adding_navbar.md)
 
 - at `CONTENT` section add `Link title arabic` field for each block.
 
 ## steps to translate a footer:
-- go to settings --> Footer setting [docs](documents/adding_footer.md)
+- go to settings --> Footer setting [(docs)](documents/adding_footer.md)
 - at `MAIN ADDRESS ARABIC` field add Arabic address.
 - at `GOOGLE MAP LOCATION` section add `Title arabic` field.
