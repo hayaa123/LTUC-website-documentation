@@ -1,5 +1,5 @@
-# add a News Details page
-- it is a page that will hold a more details for the news.
+# add a event details page
+- it is a page that will hold a more details for the event.
 - title, start date, end date and banner are required.
 - fill the content from [this doc](documents/block_types.md)
 - publish it.

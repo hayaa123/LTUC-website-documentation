@@ -37,13 +37,19 @@
 
 6- save  
 
-### notes:
-*these links that appear in navbar is the main link you choose it from (choose page buttons)*
+<h4 style="color:red">important notes</h4>
+
+- check [this doc](documents/localization.md#steps-to-translate-a-navbar) to add transition into navbar.
+
+- *these links that appear in navbar is the main link you choose it from (choose page buttons)*
 
 ![navbar example](../images/navbar/navbar_example.PNG)
 
-*and to make the drop-down list you will add it by (+) sign inside content section*
+- *and to make the drop-down list you will add it by (+) sign inside content section*
 
 ![navbar dropdown list](../images/navbar/navbar_example2.PNG)
+
+<br/> 
+<br/> 
 
 <p style='color:#7D1E6A;font-weight:bold'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>

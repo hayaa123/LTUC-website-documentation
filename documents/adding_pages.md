@@ -21,7 +21,8 @@ to add page to your website
 - [about us page](documents/pages/about_us_page.md)
 - [admission page](documents/pages/addmission_page.md)
 - [contact us page](documents/pages/contact_us_page.md)
-- [news and events page](documents/pages/news_and_events_page.md)
+- [events page](documents/pages/events_list_page.md)
+- [news page](documents/pages/news_list_page.md)
 - [scholarship page](documents/pages/scholarship_page.md)
 
  

@@ -30,3 +30,8 @@ So, you can add one or more language to translate you website to be seen by diff
 - go to settings --> Footer setting [(docs)](documents/adding_footer.md)
 - at `MAIN ADDRESS ARABIC` field add Arabic address.
 - at `GOOGLE MAP LOCATION` section add `Title arabic` field.
+
+## steps to translate the filter by school:
+- go to snippets section at admin side
+- fill the name of the schools that your project have in Arabic and English. (it should be the same as your school page name). 
+- fill the slug to be as same as the English name.
