@@ -11,6 +11,12 @@
   - [news page](documents/pages/news_list_page.md)
   - [scholarship page](documents/pages/scholarship_page.md)
 
+
 * [block types](documents/block_types.md)
 * [localization](documents/localization.md)
 * [form builder](documents/forms_builder.md)
+* [user_managment](documents/user_managment.md)
+* [collections](documents/collections.md)
+* [images](documents/images.md)
+* [documents](documents/documents.md)
+* [reports](documents/reports.md)
