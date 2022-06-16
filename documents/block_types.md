@@ -11,6 +11,9 @@
 - [Schools and faculties](#schools-and-faculties)
 - [FAQ's](#faq)
 - [Admission](#addmission)
+- [VR tour](#vr-tour)
+- [Social media and Google map](#social-media-block-and-location-google-map-block)
+- [Embedded links](#embedded-links)
 
 
 ## Banner Block
@@ -55,7 +58,8 @@ the slider is a component that contain images that will slide to show all the im
 5- in the button text you can add the text that you want your link to be embedded in. for example: Read more.
 
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 
 - to add more slides you can click in the ( + ) symbol below the current. 
 slide.
@@ -135,7 +139,8 @@ this component contain a big picture in the left side and a text in the left sid
 ![card example](../images/blocks/card/card_example.png)
 
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 
 - to add more cards you can click in the ( + ) symbol above or below the current 
 card.
@@ -194,8 +199,8 @@ this section contain an icon and number beneath it.
 
  ![infographic example](../images/blocks/infographic/infograohic_example.PNG)
 
-### notes : 
-
+<h4 style="color:red">important notes</h4>
+ 
 - to add more Infographic you can click in the ( + ) symbol above or below the current 
 Infographic.
 
@@ -224,7 +229,8 @@ this section is to show the sponsors of the institute, this section contains of 
 
 ![sponsors example](../images/blocks/sponsors/sposors_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more sponsors you can click in the ( + ) symbol above or below the current sponsor.
 
 - also you can order them by the ( ^ ) and or the down arrow. 
@@ -264,7 +270,8 @@ this section contains a title of the section with several cards below it.
 
 ![schools and faculties example](../images/blocks/schools/school_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more school you can click in the ( + ) symbol above or below the current school. 
 
 - also you can order them by the ( ^ ) and or the down arrow.
@@ -281,7 +288,8 @@ this section contains a title of the section with several cards below it.
 
 ![FAQ example](../images/blocks/faq/faq_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more questions you can click in the ( + ) symbol above or below the current question. 
 
 - also you can order them by the ( ^ ) and or the down arrow.
@@ -302,7 +310,8 @@ this section contains a title of the section with several cards below it.
 
 ![admission example](../images/blocks/addmission/addmission_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more card in admission you can click in the ( + ) symbol above or below the current card. 
 
 - also you can order them by the ( ^ ) and or the down arrow.
@@ -320,8 +329,8 @@ this section contains a title of the section with several cards below it.
 ![VR-tour example](../images/blocks/vr/vr_example.PNG)
 
 
-## Social Media Block And
-## Location Google Map Block
+## Social Media Block And Location Google Map Block
+these blocks inside the footer
 
 **Example: how to fill social media block**
 
@@ -335,7 +344,8 @@ this section contains a title of the section with several cards below it.
 
 ![social media and google map example](../images/blocks/footer_block/social_and_maps_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more social media or locations you can click in the ( + ) symbol above or below the current social media or location. 
 
 - also you can order them by the ( ^ ) and or the down arrow.
@@ -352,7 +362,8 @@ this section contains a title of the section with several cards below it.
 
 ![embedded links example](../images/blocks/embedded_links/embedded_links_example.PNG)
 
-### notes : 
+<h4 style="color:red">important notes</h4>
+ 
 - to add more links you can click in the ( + ) symbol above or below the current link section. 
 
 - also you can order them by the ( ^ ) and or the down arrow.

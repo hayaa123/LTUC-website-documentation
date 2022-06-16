@@ -3,7 +3,7 @@
 
 - for programs block: fill the title of the entire section(for example: Our Programs), then fill for each program: name, image, details and either an external URL by 'button URL field' or an internal program detail page by 'button page field'. finally, the text of the button. 
 
-### important note:
+<h4 style="color:red">important notes</h4>
 if the program is from an external website you should add it as 'button URL field'.
 
 and if the program is from your site (internally) you should do the following:

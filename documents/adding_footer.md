@@ -20,6 +20,13 @@
 
 6- save 
 
+<h4 style="color:red">important notes</h4>
+
+- check [this doc](documents/localization.md#steps-to-translate-a-footer) to add transition into footer.
+
+<br/> 
+<br/> 
+
 <p style='color:#7D1E6A;font-weight:bold;'>now you can find changes reflected in your website <span style='color:#EC994B'>:D</span> </p>
 
 ![footer example](../images/footer/footer_example.PNG)
